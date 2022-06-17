@@ -245,7 +245,7 @@ footer .app__footer_contact p img {
 }
 
 /* Mobile responsiveness */
-@media (max-width: 376px) {
+@media (max-width: 768px) {
   /* hero-section */
   .app__hero_section {
     padding: 20px;
