@@ -245,7 +245,7 @@ footer .app__footer_contact p img {
 }
 
 /* Mobile responsiveness */
-@media (max-width: 376px) {
+@media (max-width: 768px) {
   /* hero-section */
   .app__hero_section {
     padding: 20px;
@@ -255,7 +255,6 @@ footer .app__footer_contact p img {
 
   .btn {
     padding: 10px 30px;
-    
   }
 
   .app__logo .app__logo_img {
@@ -286,7 +285,6 @@ footer .app__footer_contact p img {
     height: 500px;
     padding: 30px 20px;
   }
-
 
   .app__feature .app__feature-image img {
     height: auto;
